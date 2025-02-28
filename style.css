@@ -8,10 +8,10 @@ body{
 
 .canvas{
     background-color: white;
-    animation: colorCycle 20s infinite alternate-reverse;
+    /* animation: colorCycle 20s infinite alternate-reverse; */
 }
 
-@keyframes colorCycle {
+/* @keyframes colorCycle {
     0% {
         background-color: rgba(223, 163, 141, 0.32);
     }
@@ -27,4 +27,4 @@ body{
     100% {
         background-color: rgba(105, 80, 71, 0.32);
     }
-}
+} */
