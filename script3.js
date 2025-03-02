@@ -105,7 +105,7 @@ function update() {
 }
 
 function draw() {
-    ctx.fillStyle = `rgba( ${55} ,${55},${105},${0.2})`
+    ctx.fillStyle = `rgba( ${31} ,${31},${31},${0.2})`
     ctx.fillRect(0,0,600,600)
     for (let i = 0; i < entities.length; i++) {
         const rect = entities[i];
