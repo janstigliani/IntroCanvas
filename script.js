@@ -542,19 +542,19 @@ setInterval(() => {
 
 //// test pioggia
 
-const width1 = Math.random() * 200;
-const height1 = Math.random() * 200;
-const width2 = Math.random() * 200;
-const height2 = Math.random() * 200;
+// const width1 = Math.random() * 200;
+// const height1 = Math.random() * 200;
+// const width2 = Math.random() * 200;
+// const height2 = Math.random() * 200;
 
-const originX = Math.random() * 600;
-const originY = Math.random() * 600;
+// const originX = Math.random() * 600;
+// const originY = Math.random() * 600;
 
 //creare cerchi concentrici
 
-ctx.beginPath();
-ctx.moveTo(originX, originY);
-ctx.arcTo();
+// ctx.beginPath();
+// ctx.moveTo(originX, originY);
+// ctx.arcTo();
 
 // setTimeout(() => {  versione di set interval che funziona una volta sola e non si aggiorna
 //     setTimeout
