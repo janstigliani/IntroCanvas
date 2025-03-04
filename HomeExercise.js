@@ -168,7 +168,7 @@ let size;
 function setUp() {
     canvas = document.getElementById("myCanvas");
     ctx = canvas.getContext("2d");
-    size = 500;
+    size = 600;
 
     let incrementY = 0;
     let incrementX = 0;
